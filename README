@@ -1,4 +1,5 @@
-This is a querystring parser for jQuery. I wanted something simple so technically i dont think i register it as a plugin properly its just a property of jQuery
+This is a querystring parser for jQuery. I wanted something simple so technically I dont think I register 
+it as a plugin properly its just a property of jQuery
 
 it can be used like this
 url: http://cartercole.com/?foo=bar
